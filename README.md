@@ -34,3 +34,5 @@ path - For file path manipulation.
 git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
 
+### Download The Apk
+[app-release.apk](build%2Fapp%2Foutputs%2Fapk%2Frelease%2Fapp-release.apk)
