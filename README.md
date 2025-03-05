@@ -22,6 +22,9 @@ This Flutter application allows users to view PDF files stored on their device. 
 
 ## Installation
 
+### Download The Apk
+[app-release.apk](build%2Fapp%2Foutputs%2Fapk%2Frelease%2Fapp-release.apk)
+
 To get started with this project, follow these steps:
 
 ### Dependencies
@@ -34,5 +37,4 @@ path - For file path manipulation.
 git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
 
-### Download The Apk
-[app-release.apk](build%2Fapp%2Foutputs%2Fapk%2Frelease%2Fapp-release.apk)
+
