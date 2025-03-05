@@ -11,14 +11,13 @@ This Flutter application allows users to view PDF files stored on their device. 
 
 ## Screenshots
 
-### Main Screen
-![Main Screen](assets/img1.jpg)
+### Main Screen, PDF Viewer Screen, and PDF Search Screen
 
-### PDF Viewer Screen
-![PDF Viewer](assets/img2.jpg)
-
-### PDF Search Screen
-![PDF Viewer](assets/img3.jpg)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="assets/img1.jpg" width="300" alt="Main Screen" style="margin-right: 10px;" />
+  <img src="assets/img2.jpg" width="300" alt="PDF Viewer" style="margin-right: 10px;" />
+  <img src="assets/img3.jpg" width="300" alt="PDF Search Screen" />
+</div>
 
 ## Installation
 
